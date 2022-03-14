@@ -4,7 +4,7 @@ Ini merupakan program menampilkan tabel produk yang menggunakan konsep MVC pada 
 
 Untuk menjalankan program ini di localhost :
 
-* Download file project-mvc.rar pada repository ini
+* Download file `project-mvc.rar` pada repository ini
 * Jalankan composer update pada directory program
 * Import database* ubah `env` menjadi `.env` kemudian sesuaikan
 * Untuk menjalankan `php spark serve`
